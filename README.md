@@ -32,5 +32,3 @@
 [^epb]: https://epb.com/get-connected/tech-support/does-an-ethernet-cable-speed-up-wifi/
 [^mta]: https://www.mtasolutions.com/blog/is-the-internet-faster-when-you-plug-in-ethernet-vs-wi-fi/
 [^htg]: https://www.howtogeek.com/217463/wi-fi-vs.-ethernet-how-much-better-is-a-wired-connection/
-
-2026 [Greg Chabala](https://github.com/chabala)
